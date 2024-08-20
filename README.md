@@ -1,5 +1,5 @@
 デバイスのバッテリー残量をOSCで送信します
 
-頭にバッテリーマークの髪飾りをつけて使ってね。
+使用例↓
 
 ![SampleImage](image/SampleImage.png)
