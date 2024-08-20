@@ -293,8 +293,10 @@ namespace SendBatteryOSC
 
             //送信
             {
-                foreach (var deviceID in sendDeviceIDList)
+                for(int i = 0; i < sendDeviceIDList.Count; i++)
                 {
+                    var deviceID = sendDeviceIDList[i];
+
                     var foundDevice = Devices.Find(x => x.ID == deviceID);
                     if (foundDevice == null)
                     {
@@ -303,7 +305,7 @@ namespace SendBatteryOSC
                     }
 
                     float value = 1 - foundDevice.Battery;
-                    var tempBatteryAddress = batteryAddress + sendDeviceIDList.IndexOf(deviceID).ToString("D2");
+                    var tempBatteryAddress = batteryAddress + i.ToString("D2");
 
                     var message = new OscMessage(tempBatteryAddress, value);
                     oscSender.Send(message);
