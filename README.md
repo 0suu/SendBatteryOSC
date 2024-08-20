@@ -10,6 +10,12 @@ Slot 2 -> "/avatar/parameters/BatteryFloat02"
 <br>
 
 
+SteamVR環境で動作します。
+<br>
+SteamVRがデバイスを認識してから本アプリケーションがデバイスを取得できるまで時間を要することがあります。
+<br>
+※特にトラッカーが遅い！！
+<br>
 
 動く
 <br>
