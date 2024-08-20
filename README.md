@@ -1,4 +1,15 @@
-デバイスのバッテリー残量をOSCで送信します
+デバイスのバッテリー残量をOSCで送信します。
+<br>
+スロットが複数あり、送信先アドレスは次の通りです。
+<br>
+Slot 0 -> "/avatar/parameters/BatteryFloat00"
+<br>
+Slot 1 -> "/avatar/parameters/BatteryFloat01"
+<br>
+Slot 2 -> "/avatar/parameters/BatteryFloat02"
+<br>
+
+
 
 動く
 <br>
