@@ -22,6 +22,8 @@ SteamVRがデバイスを認識してから本アプリケーションがデバ�
 ・Meta Quest 3 Virtual Desktop 
 <br>
 ・Thundra Tracker
+<br>
+・ViveTracker
 
 動かない
 <br>
@@ -31,9 +33,11 @@ SteamVRがデバイスを認識してから本アプリケーションがデバ�
 
 多分動く
 <br>
-・ViveTracker
+・Meta Quest 2 Virtual Desktop
 <br>
 ・Index Controller
+<br>
+・Vive Controller
 
 わからない
 <br>
