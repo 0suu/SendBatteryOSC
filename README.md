@@ -23,7 +23,7 @@ SteamVRがデバイスを認識してから本アプリケーションがデバ�
 <br>
 ・Thundra Tracker
 <br>
-・ViveTracker
+・Vive Tracker
 
 動かない
 <br>
