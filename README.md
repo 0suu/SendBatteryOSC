@@ -46,3 +46,4 @@ SteamVRがデバイスを認識してから本アプリケーションがデバ�
 使用例↓ SampleModel以下にサンプルモデルあります。
 
 ![SampleImage](image/SampleImage.png)
+![SampleImage](image/SampleImage_02.png)
