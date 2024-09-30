@@ -1,3 +1,6 @@
+**[sai_OSCController](https://pages.github.com/)へ統合されました**
+
+
 デバイスのバッテリー残量をOSCで送信します。
 <br>
 スロットが複数あり、送信先アドレスは次の通りです。
